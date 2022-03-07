@@ -22,6 +22,7 @@
     <modules>
         <module>service-register</module>
         <module>trade</module>
+        <module>gateway</module>
     </modules>
 
     <dependencyManagement>
