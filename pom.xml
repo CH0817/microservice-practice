@@ -19,6 +19,11 @@
         <spring.cloud-version>2021.0.1</spring.cloud-version>
     </properties>
 
+    <modules>
+        <module>service-register</module>
+        <module>trade</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
